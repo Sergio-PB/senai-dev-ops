@@ -1,5 +1,7 @@
 # senai-dev-ops
 
+Copie o arquivo Dockerfile para o diretório da aplicação.
+
 Para rodar exibindo seu nome, execute os comandos abaixos. Utilize a opção [-d] para rodar em background.
 
 docker build -t colored .
